@@ -1,0 +1,14 @@
+/* 🔥 CLEAN ROOT (NO WIDTH LIMIT, NO CENTER LOCK) */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* optional utility */
+.perspective {
+  perspective: 1000px;
+}
+
+.transform-style {
+  transform-style: preserve-3d;
+}
