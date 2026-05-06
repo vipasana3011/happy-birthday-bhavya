@@ -54,7 +54,7 @@ const HeroScene = ({ onNext }: SceneProps) => {
           transition={{ delay: 0.3 }}
           className="text-4xl sm:text-6xl mt-2 font-script text-pink-500"
         >
-          Surbhi 💖
+          Bhavya 💖
         </motion.div>
 
         {/* ✨ subtitle */}
