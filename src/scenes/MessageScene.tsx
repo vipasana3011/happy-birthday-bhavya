@@ -17,7 +17,7 @@ I hope your day is full of love, cake, laughter & happiness.
 And just so you know…
 you are kinda my favorite person 😏💘
 
-Happy Birthday again, Surbhi 🎂💞`;
+Happy Birthday again, Bhavya🎂💞`;
 
 const MessageScene = ({ onNext }: SceneProps) => {
   const [opened, setOpened] = useState(false);
