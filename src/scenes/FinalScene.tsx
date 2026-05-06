@@ -51,7 +51,7 @@ const FinalScene = ({ onNext }: SceneProps) => {
           transition={{ delay: 1.3 }}
           className="mt-6 text-sm sm:text-base text-foreground/70 italic"
         >
-          Made BY GAUTAM with all the love, just for you surbhi ✨
+          Made BY GAUTAM with all the love, just for you Bhavya ✨
         </motion.p>
 
         {/* button */}
